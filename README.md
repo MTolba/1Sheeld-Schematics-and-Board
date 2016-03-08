@@ -2,11 +2,8 @@
 
 ## Overview ##
 
-This repository contains the schematics and board files for 1Sheeld board.
+This repository contains the schematics and board files for 1Sheeld Plus board.
 
-## Schematics Reference Image ##
-
-![Schematics Image](http://i.imgur.com/AsY9CNq.png)
 
 ## Changelog ##
 
